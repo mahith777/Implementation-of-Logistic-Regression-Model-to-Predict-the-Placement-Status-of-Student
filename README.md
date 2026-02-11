@@ -23,13 +23,6 @@ Program to implement the the Logistic Regression Model to Predict the Placement 
 Developed by: Mahith M
 RegisterNumber: 212225220061 
 */
-/*
-Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: Rachitha U
-RegisterNumber:  212225220078
-*/
-
-
 # Logistic Regression – Student Placement Prediction
 
 # Step 1: Import required libraries
